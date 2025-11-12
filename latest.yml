@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.2
 files:
-  - url: Eternot-Launcher-1.0.0-Setup.exe
-    sha512: O8m0AcoCnlfFfGhjSqNxPtlE0DOPsaAZqMhJcadOPbbZio3H9PIEHCMUYDMs0F5d60tfjol5Qyn7jNOmaFAyGg==
-    size: 77684210
-path: Eternot-Launcher-1.0.0-Setup.exe
-sha512: O8m0AcoCnlfFfGhjSqNxPtlE0DOPsaAZqMhJcadOPbbZio3H9PIEHCMUYDMs0F5d60tfjol5Qyn7jNOmaFAyGg==
-releaseDate: '2025-11-11T22:30:52.220Z'
+  - url: Eternot-Launcher-1.0.2-Setup.exe
+    sha512: Bj7/+zg6TCEQb0qhj99HoO9YH5IcW055JVeC6KUvmZSWMdcjzu0WTzkzkd3BHe50ldiib2IgeZcUnQGEP91sfQ==
+    size: 77684645
+path: Eternot-Launcher-1.0.2-Setup.exe
+sha512: Bj7/+zg6TCEQb0qhj99HoO9YH5IcW055JVeC6KUvmZSWMdcjzu0WTzkzkd3BHe50ldiib2IgeZcUnQGEP91sfQ==
+releaseDate: '2025-11-12T00:57:40.577Z'
